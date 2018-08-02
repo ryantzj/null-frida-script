@@ -1,1 +1,1 @@
-Some frida scripts that i uses to demostrate during the NUll Singapore July meetup. 
+Frida Script samples during Null Singapore July Meetup
